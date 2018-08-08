@@ -1,5 +1,7 @@
 # Hidden-Markov-Model
 
+This was implemented as part of course CSCI 567 (Machine Learning) in Spring 2018 at USC.
+
 Model parameters - 
 hmm_model.json, has the following model parameters: the initial probabilities (pi), the transition probabilities(A), the observation probabilities(B)
 
